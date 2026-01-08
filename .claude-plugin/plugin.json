@@ -1,0 +1,11 @@
+{
+  "name": "daily-planner",
+  "version": "0.1.0",
+  "description": "Flexible daily planning system that adapts to your workflow - from structured planning to casual check-ins",
+  "author": {
+    "name": "ZhentaoLin"
+  },
+  "license": "MIT",
+  "tags": ["productivity", "planning", "task-management", "workflow", "organization"],
+  "homepage": "https://github.com/ZhentaoLin/claude-daily-planner"
+}

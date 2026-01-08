@@ -1,0 +1,15 @@
+{
+  "name": "daily-planner-marketplace",
+  "owner": {
+    "name": "Daily Planner Contributors",
+    "url": "https://github.com/ZhentaoLin/claude-daily-planner"
+  },
+  "plugins": [
+    {
+      "name": "daily-planner",
+      "description": "Flexible daily planning system that adapts to your workflow - from structured planning to casual check-ins",
+      "source": "../",
+      "homepage": "https://github.com/ZhentaoLin/claude-daily-planner"
+    }
+  ]
+}

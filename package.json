@@ -1,0 +1,35 @@
+{
+  "name": "claude-plugin-daily-planner",
+  "version": "0.1.0",
+  "description": "Flexible daily planning system for Claude Code that adapts to your workflow",
+  "keywords": [
+    "claude-code",
+    "claude-plugin",
+    "productivity",
+    "planning",
+    "task-management",
+    "workflow",
+    "organization"
+  ],
+  "author": "Daily Planner Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhentaoLin/claude-daily-planner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZhentaoLin/claude-daily-planner/issues"
+  },
+  "homepage": "https://github.com/ZhentaoLin/claude-daily-planner#readme",
+  "files": [
+    "commands/",
+    "setup.sh",
+    "README.md",
+    "LICENSE",
+    "PLUGIN.md",
+    ".claude-plugin/"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
