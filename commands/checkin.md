@@ -38,3 +38,6 @@ Quick daily check-in for task suggestions and progress tracking.
 - "What sounds doable?" not "Here's your prioritized list"
 - Focus on easy wins and reducing friction
 - No rigid structure - adapt to what user needs in the moment
+
+## Tip
+Use `/checkin` anytime during the day when you need a quick nudge on what to work on next.
